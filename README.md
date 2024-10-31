@@ -1,7 +1,3 @@
-Here's an updated and more readable version of your README that includes an API integration section for accessing movie data and explains the project in a structured way:
-
----
-
 # **Personalized Movie Recommendation System**
 
 ## **Project Overview**
