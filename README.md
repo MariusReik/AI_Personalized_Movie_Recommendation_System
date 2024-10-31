@@ -221,7 +221,3 @@ if st.button("Get Recommendations"):
 - **Advanced Recommendation Algorithms**: Explore neural collaborative filtering or deep learning models.
 - **Enhanced API Integration**: Integrate real-time rating and review updates.
 - **User Profile Management**: Allow users to create accounts and save preferences.
-
----
-
-This README provides a clear plan, setup guidance, and step-by-step explanation of how the personalized movie recommendation system works. With the included API integration, the project is well-positioned to access accurate movie metadata, enhancing the recommendation system’s quality and user experience.
