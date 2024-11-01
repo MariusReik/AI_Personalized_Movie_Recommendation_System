@@ -46,21 +46,24 @@ This project is a **personalized movie recommendation web app** that uses machin
 
 ## **Project Structure**
 
-Here's an outline of the project folder structure to keep it organized and easy to navigate:
-
-```
 movie_recommendation/
 ├── data/                     # Datasets and raw data
 ├── notebooks/                # Jupyter notebooks for exploration and model development
-├── src/                      # Source code
+├── backend/                  # Backend source code
 │   ├── data_preprocessing.py # Data cleaning and feature engineering
 │   ├── recommendation.py     # ML models and recommendation algorithms
 │   ├── app.py                # Main application and API endpoints
-├── requirements.txt          # List of dependencies
+├── frontend/                 # React frontend source code
+│   ├── public/               # Public assets (index.html, favicon, etc.)
+│   ├── src/                  # React source code
+│   │   ├── components/       # React components
+│   │   ├── App.js            # Main app component
+│   │   ├── index.js          # Entry point for React
+├── requirements.txt          # List of backend dependencies
+├── package.json              # List of frontend dependencies
 ├── README.md                 # Project overview and instructions
 ├── report/                   # Final project report
 └── templates/                # HTML templates (if using Flask)
-```
 
 ## **Dataset and Preprocessing**
 

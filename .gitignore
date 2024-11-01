@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+npm-debug.log
+
+# Build outputs
+build/
+dist/
+
+# Python virtual environment (if applicable)
+venv/
+.env
